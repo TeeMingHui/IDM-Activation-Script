@@ -377,7 +377,7 @@ echo:
 echo:
 timeout /t 3
 
-start https://github.com/lstprjct/IDM-Activation-Script
+start https://github.com/TeeMingHui/IDM-Activation-Script
 goto MainMenu
 
 ::========================================================================================================================================
@@ -850,28 +850,28 @@ ________________________________________________________________________________
    Credits:
 __________________________________________________________________________________________________
 
-   @Dukun Cabul		- Original researcher of this IDM trial reset and activation logic,
-			  made an Autoit tool for these methods, IDM-AIO_2020_Final
-			  nsaneforums.com/topic/371047--/?do=findComment&comment=1632062
+   @Dukun Cabul     - Original researcher of this IDM trial reset and activation logic,
+              made an Autoit tool for these methods, IDM-AIO_2020_Final
+              nsaneforums.com/topic/371047--/?do=findComment&comment=1632062
                          
-   @WindowsAddict	- Ported the above Autoit tool to a batch script
+   @WindowsAddict   - Ported the above Autoit tool to a batch script
 
-   @AveYo aka @BAU	- Snippet to set registry ownership and permission recursively
-			  pastebin.com/XTPt0JSC
+   @AveYo aka @BAU  - Snippet to set registry ownership and permission recursively
+              pastebin.com/XTPt0JSC
 
-   @abbodi1406		- Awesome batch script tricks and help
+   @abbodi1406      - Awesome batch script tricks and help
 
-   @dbenham		- Set buffer height independently of window height
-			  stackoverflow.com/a/13351373
+   @dbenham     - Set buffer height independently of window height
+              stackoverflow.com/a/13351373
 
-   @ModByPiash (Me)	- Add and fix some missing features.
+   @ModByPiash (Me) - Add and fix some missing features.
 _________________________________
 
    IDM Activation Script
    
-   Homepage:	https://github.com/lstprjct/IDM-Activation-Script
+   Homepage:    https://github.com/lstprjct/IDM-Activation-Script
    
-   Telegram:	https://t.me/ModByPiash
+   Telegram:    https://t.me/ModByPiash
 
 __________________________________________________________________________________________________
 :txt:
